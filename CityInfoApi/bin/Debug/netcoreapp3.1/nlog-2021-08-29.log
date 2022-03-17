@@ -1,0 +1,64 @@
+2021-08-29 13:56:12.2132|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-29 13:56:12.2387|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2021-08-29 13:56:12.2387|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-29 13:56:12.2514|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Infinity Mesh\Desktop\CityInfo\CityInfoApi
+2021-08-29 13:56:19.8189|FATAL|CityInfoApi.Controllers.PointOfIntrestController|Exception while getting points of interest for city with id 10.
+2021-08-29 14:20:03.3903|INFO|CityInfoApi.Program|Initializing application...
+2021-08-29 14:20:03.9956|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-29 14:20:04.0006|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-29 14:20:04.0006|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Infinity Mesh\Desktop\CityInfo\CityInfoApi
+2021-08-29 14:20:04.0375|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2021-08-29 14:42:55.9918|INFO|CityInfoApi.Program|Initializing application...
+2021-08-29 14:42:56.6003|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-29 14:42:56.6003|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-29 14:42:56.6096|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Infinity Mesh\Desktop\CityInfo\CityInfoApi
+2021-08-29 14:42:56.6388|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2021-08-29 14:56:59.2878|INFO|CityInfoApi.Program|Initializing application...
+2021-08-29 14:56:59.9820|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-29 14:56:59.9850|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-29 14:56:59.9850|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Infinity Mesh\Desktop\CityInfo\CityInfoApi
+2021-08-29 14:57:00.0122|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2021-08-29 14:58:08.0772|INFO|CityInfoApi.Program|Initializing application...
+2021-08-29 14:58:08.6493|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-29 14:58:08.6493|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2021-08-29 14:58:08.6554|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Infinity Mesh\Desktop\CityInfo\CityInfoApi
+2021-08-29 14:58:08.6774|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2021-08-29 18:41:02.6469|INFO|CityInfoApi.Program|Initializing application...
+2021-08-29 18:41:03.4346|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-29 18:41:03.4375|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-29 18:41:03.4375|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Infinity Mesh\Desktop\CityInfo\CityInfoApi
+2021-08-29 18:41:03.4645|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2021-08-29 18:42:00.3860|INFO|CityInfoApi.Program|Initializing application...
+2021-08-29 18:42:01.0177|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-29 18:42:01.0177|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-29 18:42:01.0177|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Infinity Mesh\Desktop\CityInfo\CityInfoApi
+2021-08-29 18:42:01.0538|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2021-08-29 18:47:56.1939|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (8ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Cities] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    [Description] nvarchar(200) NULL,
+    CONSTRAINT [PK_Cities] PRIMARY KEY ([Id])
+);
+2021-08-29 18:48:52.2244|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Cities] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    [Description] nvarchar(200) NULL,
+    CONSTRAINT [PK_Cities] PRIMARY KEY ([Id])
+);
+2021-08-29 18:57:17.7087|INFO|CityInfoApi.Program|Initializing application...
+2021-08-29 18:57:29.5341|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-29 18:57:29.5341|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-29 18:57:29.5341|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Infinity Mesh\Desktop\CityInfo\CityInfoApi
+2021-08-29 18:57:29.5660|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2021-08-29 19:01:49.2913|INFO|CityInfoApi.Program|Initializing application...
+2021-08-29 19:02:01.2620|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-29 19:02:01.2662|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-29 19:02:01.2662|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Infinity Mesh\Desktop\CityInfo\CityInfoApi
+2021-08-29 19:02:01.2960|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2021-08-29 19:25:57.6762|INFO|CityInfoApi.Program|Initializing application...
+2021-08-29 19:26:09.6476|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-29 19:26:09.6476|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-29 19:26:09.6553|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Infinity Mesh\Desktop\CityInfo\CityInfoApi
+2021-08-29 19:26:09.6810|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.

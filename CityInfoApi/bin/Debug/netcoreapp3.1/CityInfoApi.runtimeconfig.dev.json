@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Infinity Mesh\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Infinity Mesh\\.nuget\\packages"
+    ]
+  }
+}
